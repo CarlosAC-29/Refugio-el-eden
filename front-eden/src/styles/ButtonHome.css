@@ -1,0 +1,29 @@
+
+.boton{
+    align-items: center;
+    background-clip: padding-box;
+    background-color:#fff;
+    opacity: .6;
+    border: 2px solid black;
+    border-radius: .25rem;
+    box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+    box-sizing: border-box;
+    color:#000000;
+    cursor: pointer;
+    display: inline-flex;
+    font-size: 40px;
+    justify-content: center;
+    margin: 0;
+    min-height: 3rem;
+    padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+    position: relative;
+    text-decoration: none;
+    width: 800px;
+    height: 100px;
+    gap: 30px;
+}
+
+.boton:hover{
+    background-color: #FA824C;
+    opacity: 10;
+}

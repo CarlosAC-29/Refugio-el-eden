@@ -1,0 +1,7 @@
+.Contenedor-login{
+  background: url('../Images/Fondo_login.png');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  padding: 2rem;
+}

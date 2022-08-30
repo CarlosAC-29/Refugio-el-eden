@@ -1,0 +1,7 @@
+.Contenedor-Titulo{
+    justify-content: right;
+    gap: 30px;
+    display: flex;
+    background-color: #EAE0D5;
+    padding: 10px;
+}

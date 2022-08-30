@@ -1,0 +1,23 @@
+.RegistrarUsuCont{
+  background: url('../Images/PandaRed.png');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  height: auto;
+  padding-bottom: 2rem;
+}
+
+.main-container{
+  display: flex;
+  flex-direction: column;
+}
+.precios{
+  height: 500px;
+  width: 600px;
+}
+
+@media (max-width: 540px) {
+  .RegistrarUsuCont{
+    background: #E8F1F2;
+  }
+}

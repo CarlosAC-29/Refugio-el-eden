@@ -1,0 +1,23 @@
+
+.MenuCel{
+  position: relative;
+  background-color: "#251D16";
+  
+}
+.MenuC{
+  position: relative;
+}
+
+img{
+  height: 5rem;
+
+
+}
+
+a:hover{
+  color: brown;
+}
+
+.RegistrarUsuCont{
+  height: 100vh;
+}
